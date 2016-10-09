@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RnD.Net.Serializing.Clone", "RnD.Net.Serializing.Clone\RnD.Net.Serializing.Clone.csproj", "{F3D5086B-ECB9-4AF3-9C33-7EBC72B377FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RnD.Net.Serializing.InterestingCase", "RnD.Net.Serializing.InterestingCase\RnD.Net.Serializing.InterestingCase.csproj", "{1F45BC04-D50C-4CD1-8D72-125E8D84151B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RnD.Net.Serializing.Singleton", "RnD.Net.Serializing.Singleton\RnD.Net.Serializing.Singleton.csproj", "{2D44EAB5-F1C4-424D-A45D-CAF1F092891E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RnD.Net.Serializing.Management", "RnD.Net.Serializing.Management\RnD.Net.Serializing.Management.csproj", "{71549281-E583-4AB9-AB3D-C12CB2E4C2FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RnD.Net.Serializing.SoapFormatter", "RnD.Net.Serializing.SoapFormatter\RnD.Net.Serializing.SoapFormatter.csproj", "{B445084A-DED0-485E-89FA-6A4A8CE0CD98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RnD.Net.Serializing.ISerialazable", "RnD.Net.Serializing.ISerialazable\RnD.Net.Serializing.ISerialazable.csproj", "{EEC9A5D9-E221-4CBD-971D-0D3993DECB98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RnD.Net.Serializing.Surrogate", "RnD.Net.Serializing.Surrogate\RnD.Net.Serializing.Surrogate.csproj", "{F32C1982-6D70-4C59-8151-803F5B5111FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RnD.Net.Serializing.DataContractSerializer", "RnD.Net.Serializing.DataContractSerializer\RnD.Net.Serializing.DataContractSerializer.csproj", "{A06C92D3-ACFC-4185-9A11-285612EF4A47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RnD.Net.Serializing.JsonSerializer", "RnD.Net.Serializing.JsonSerializer\RnD.Net.Serializing.JsonSerializer.csproj", "{76370BFD-2F9B-4FC7-B912-C6F1789E7F48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3D5086B-ECB9-4AF3-9C33-7EBC72B377FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D5086B-ECB9-4AF3-9C33-7EBC72B377FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D5086B-ECB9-4AF3-9C33-7EBC72B377FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D5086B-ECB9-4AF3-9C33-7EBC72B377FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F45BC04-D50C-4CD1-8D72-125E8D84151B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F45BC04-D50C-4CD1-8D72-125E8D84151B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F45BC04-D50C-4CD1-8D72-125E8D84151B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F45BC04-D50C-4CD1-8D72-125E8D84151B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D44EAB5-F1C4-424D-A45D-CAF1F092891E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D44EAB5-F1C4-424D-A45D-CAF1F092891E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D44EAB5-F1C4-424D-A45D-CAF1F092891E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D44EAB5-F1C4-424D-A45D-CAF1F092891E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71549281-E583-4AB9-AB3D-C12CB2E4C2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71549281-E583-4AB9-AB3D-C12CB2E4C2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71549281-E583-4AB9-AB3D-C12CB2E4C2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71549281-E583-4AB9-AB3D-C12CB2E4C2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B445084A-DED0-485E-89FA-6A4A8CE0CD98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B445084A-DED0-485E-89FA-6A4A8CE0CD98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B445084A-DED0-485E-89FA-6A4A8CE0CD98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B445084A-DED0-485E-89FA-6A4A8CE0CD98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC9A5D9-E221-4CBD-971D-0D3993DECB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC9A5D9-E221-4CBD-971D-0D3993DECB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC9A5D9-E221-4CBD-971D-0D3993DECB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC9A5D9-E221-4CBD-971D-0D3993DECB98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32C1982-6D70-4C59-8151-803F5B5111FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32C1982-6D70-4C59-8151-803F5B5111FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32C1982-6D70-4C59-8151-803F5B5111FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32C1982-6D70-4C59-8151-803F5B5111FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A06C92D3-ACFC-4185-9A11-285612EF4A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06C92D3-ACFC-4185-9A11-285612EF4A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06C92D3-ACFC-4185-9A11-285612EF4A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06C92D3-ACFC-4185-9A11-285612EF4A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76370BFD-2F9B-4FC7-B912-C6F1789E7F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76370BFD-2F9B-4FC7-B912-C6F1789E7F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76370BFD-2F9B-4FC7-B912-C6F1789E7F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76370BFD-2F9B-4FC7-B912-C6F1789E7F48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

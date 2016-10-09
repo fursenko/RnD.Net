@@ -1,0 +1,1 @@
+C:\MAIN\Projects\RnD.Net\RnD.Net.Serializing\RnD.Net.Serializing.Singleton\bin\Debug\RnD.Net.Serializing.Singleton.exe.config
