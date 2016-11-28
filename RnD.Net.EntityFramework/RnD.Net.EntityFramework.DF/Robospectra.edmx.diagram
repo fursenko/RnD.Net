@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e33a9438da534aba9718229341dd11a7" Name="Diagram1">
+        <EntityTypeShape EntityType="RobospectraModel.DroneConfiguration" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="RobospectraModel.Drone" Width="2.625" PointX="3.375" PointY="1.375" IsExpanded="true" />
+        <AssociationConnector Association="RobospectraModel.FK_dbo_Drones_dbo_DroneConfigurations_Configuration_Id" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
